@@ -1,0 +1,331 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ICON/2_audio_repeat.png</file>
+        <file>ICON/2_audio_simple_random.png</file>
+        <file>ICON/2_audio_simple_repeat.png</file>
+        <file>ICON/2_audio_simple_repeat_2.png</file>
+        <file>ICON/2_audio_simple_repeat_all.png</file>
+        <file>ICON/3floppy_unmount.png</file>
+        <file>ICON/4_audio_pause.png</file>
+        <file>ICON/4_audio_play.png</file>
+        <file>ICON/4_audio_rewind.png</file>
+        <file>ICON/4_audio_step_back.png</file>
+        <file>ICON/4_audio_step_forward (1).png</file>
+        <file>ICON/4_audio_step_forward.png</file>
+        <file>ICON/4_audio_stop.png</file>
+        <file>ICON/4_audio_title_back.png</file>
+        <file>ICON/4_audio_title_forward.png</file>
+        <file>ICON/5_favorite_cricle_star.png</file>
+        <file>ICON/8_audio_enhancement.png</file>
+        <file>ICON/add (2).png</file>
+        <file>ICON/add.png</file>
+        <file>ICON/administrative_tools.png</file>
+        <file>ICON/align_justify.png</file>
+        <file>ICON/align_left.png</file>
+        <file>ICON/apacheconf.png</file>
+        <file>ICON/aperture.png</file>
+        <file>ICON/application_proprietary.png</file>
+        <file>ICON/application_x_m4.png</file>
+        <file>ICON/applications.png</file>
+        <file>ICON/applications_games.png</file>
+        <file>ICON/applications_system.png</file>
+        <file>ICON/arrow_down.png</file>
+        <file>ICON/arrow_up.png</file>
+        <file>ICON/available_updates.png</file>
+        <file>ICON/back (1).png</file>
+        <file>ICON/back (2).png</file>
+        <file>ICON/back (3).png</file>
+        <file>ICON/back.png</file>
+        <file>ICON/backward.png</file>
+        <file>ICON/ball_blue.png</file>
+        <file>ICON/ball_green.png</file>
+        <file>ICON/ball_red.png</file>
+        <file>ICON/ball_yellow.png</file>
+        <file>ICON/blog_accept (1).png</file>
+        <file>ICON/blog_accept.png</file>
+        <file>ICON/blog_add (1).png</file>
+        <file>ICON/blog_add (2).png</file>
+        <file>ICON/blog_add (3).png</file>
+        <file>ICON/blog_add.png</file>
+        <file>ICON/book.png</file>
+        <file>ICON/bottom.png</file>
+        <file>ICON/briefcase.png</file>
+        <file>ICON/brush_pencil.png</file>
+        <file>ICON/calculator.png</file>
+        <file>ICON/cancel (2).png</file>
+        <file>ICON/cancel.png</file>
+        <file>ICON/caution.png</file>
+        <file>ICON/check.png</file>
+        <file>ICON/checkmark.png</file>
+        <file>ICON/close_window.png</file>
+        <file>ICON/cloud.png</file>
+        <file>ICON/collapse.png</file>
+        <file>ICON/compass.png</file>
+        <file>ICON/computer.png</file>
+        <file>ICON/cone.png</file>
+        <file>ICON/connect.png</file>
+        <file>ICON/contrast.png</file>
+        <file>ICON/cooker.png</file>
+        <file>ICON/data_in_both_directions (1).png</file>
+        <file>ICON/data_in_both_directions.png</file>
+        <file>ICON/database_backup.png</file>
+        <file>ICON/default_applications_capplet.png</file>
+        <file>ICON/delete.png</file>
+        <file>ICON/delete_sign.png</file>
+        <file>ICON/denied.png</file>
+        <file>ICON/dialog_error (1).png</file>
+        <file>ICON/dialog_error.png</file>
+        <file>ICON/dialog_ok.png</file>
+        <file>ICON/direction_down.png</file>
+        <file>ICON/direction_left.png</file>
+        <file>ICON/direction_right.png</file>
+        <file>ICON/direction_up.png</file>
+        <file>ICON/document (1).png</file>
+        <file>ICON/document.png</file>
+        <file>ICON/document_add.png</file>
+        <file>ICON/down (1).png</file>
+        <file>ICON/down (2).png</file>
+        <file>ICON/down.png</file>
+        <file>ICON/down2.png</file>
+        <file>ICON/down3.png</file>
+        <file>ICON/down4.png</file>
+        <file>ICON/down_left.png</file>
+        <file>ICON/down_right.png</file>
+        <file>ICON/download (1).png</file>
+        <file>ICON/download.png</file>
+        <file>ICON/download2.png</file>
+        <file>ICON/drive_harddisk.png</file>
+        <file>ICON/edit_alt.png</file>
+        <file>ICON/edit_redo.png</file>
+        <file>ICON/edit_undo (1).png</file>
+        <file>ICON/edit_undo.png</file>
+        <file>ICON/editcopy.png</file>
+        <file>ICON/editdelete.png</file>
+        <file>ICON/editpaste.png</file>
+        <file>ICON/eject.png</file>
+        <file>ICON/email.png</file>
+        <file>ICON/emblem_important.png</file>
+        <file>ICON/emblem_noread.png</file>
+        <file>ICON/emblem_note.png</file>
+        <file>ICON/emblem_symbolic_link.png</file>
+        <file>ICON/emblem_system.png</file>
+        <file>ICON/emptytrash (1).png</file>
+        <file>ICON/emptytrash.png</file>
+        <file>ICON/equal_sign2.png</file>
+        <file>ICON/error.png</file>
+        <file>ICON/exit (1).png</file>
+        <file>ICON/exit.png</file>
+        <file>ICON/fast_forward (1).png</file>
+        <file>ICON/fast_forward.png</file>
+        <file>ICON/file.png</file>
+        <file>ICON/file_add.png</file>
+        <file>ICON/file_delete.png</file>
+        <file>ICON/file_download (1).png</file>
+        <file>ICON/file_download.png</file>
+        <file>ICON/file_search.png</file>
+        <file>ICON/file_upload (1).png</file>
+        <file>ICON/file_upload (2).png</file>
+        <file>ICON/file_upload.png</file>
+        <file>ICON/finish (1).png</file>
+        <file>ICON/finish.png</file>
+        <file>ICON/folder_download (1).png</file>
+        <file>ICON/folder_download (2).png</file>
+        <file>ICON/folder_download (3).png</file>
+        <file>ICON/folder_download (4).png</file>
+        <file>ICON/folder_download (5).png</file>
+        <file>ICON/folder_download.png</file>
+        <file>ICON/folder_search (1).png</file>
+        <file>ICON/folder_search.png</file>
+        <file>ICON/folder_sent (1).png</file>
+        <file>ICON/folder_sent (2).png</file>
+        <file>ICON/folder_sent.png</file>
+        <file>ICON/folder_upload (1).png</file>
+        <file>ICON/folder_upload.png</file>
+        <file>ICON/forward (1).png</file>
+        <file>ICON/forward (2).png</file>
+        <file>ICON/forward (3).png</file>
+        <file>ICON/forward.png</file>
+        <file>ICON/gear.png</file>
+        <file>ICON/generic_sorting2.png</file>
+        <file>ICON/gnome_app_install.png</file>
+        <file>ICON/gnome_control_center.png</file>
+        <file>ICON/gnome_dev_disc_dvdrom.png</file>
+        <file>ICON/gnome_dev_symlink.png</file>
+        <file>ICON/gnome_netstatus_tx.png</file>
+        <file>ICON/gnome_run.png</file>
+        <file>ICON/gnome_searchtool.png</file>
+        <file>ICON/gnome_session_hibernate.png</file>
+        <file>ICON/gnome_session_suspend.png</file>
+        <file>ICON/gnome_stock_mail_fwd.png</file>
+        <file>ICON/go_first.png</file>
+        <file>ICON/go_jump (1).png</file>
+        <file>ICON/go_jump (2).png</file>
+        <file>ICON/go_jump.png</file>
+        <file>ICON/go_up.png</file>
+        <file>ICON/gps.png</file>
+        <file>ICON/gtk_add.png</file>
+        <file>ICON/gtk_apply.png</file>
+        <file>ICON/gtk_cancel (1).png</file>
+        <file>ICON/gtk_cancel.png</file>
+        <file>ICON/gtk_close.png</file>
+        <file>ICON/gtk_media_forward_ltr (1).png</file>
+        <file>ICON/gtk_media_forward_ltr.png</file>
+        <file>ICON/gtk_media_forward_rtl.png</file>
+        <file>ICON/gtk_media_next_ltr (1).png</file>
+        <file>ICON/gtk_media_next_ltr.png</file>
+        <file>ICON/gtk_media_next_rtl (1).png</file>
+        <file>ICON/gtk_media_next_rtl.png</file>
+        <file>ICON/gtk_media_pause (1).png</file>
+        <file>ICON/gtk_media_pause.png</file>
+        <file>ICON/gtk_media_play_ltr (1).png</file>
+        <file>ICON/gtk_media_play_ltr.png</file>
+        <file>ICON/gtk_media_stop (1).png</file>
+        <file>ICON/gtk_media_stop.png</file>
+        <file>ICON/gtk_properties.png</file>
+        <file>ICON/gtk_refresh (1).png</file>
+        <file>ICON/gtk_refresh.png</file>
+        <file>ICON/hearts.png</file>
+        <file>ICON/help_alt.png</file>
+        <file>ICON/inbox (1).png</file>
+        <file>ICON/inbox (2).png</file>
+        <file>ICON/inbox (3).png</file>
+        <file>ICON/inbox.png</file>
+        <file>ICON/information.png</file>
+        <file>ICON/justify.png</file>
+        <file>ICON/key.png</file>
+        <file>ICON/left (1).png</file>
+        <file>ICON/left (2).png</file>
+        <file>ICON/left.png</file>
+        <file>ICON/left2.png</file>
+        <file>ICON/left3.png</file>
+        <file>ICON/left_circular.png</file>
+        <file>ICON/left_round.png</file>
+        <file>ICON/light_bulb_off.png</file>
+        <file>ICON/light_bulb_on.png</file>
+        <file>ICON/load_upload.png</file>
+        <file>ICON/locked.png</file>
+        <file>ICON/login.png</file>
+        <file>ICON/low_importance_512.png</file>
+        <file>ICON/mail.png</file>
+        <file>ICON/media_eject.png</file>
+        <file>ICON/merge.png</file>
+        <file>ICON/minimize_window.png</file>
+        <file>ICON/minus.png</file>
+        <file>ICON/multiple_smartphones.png</file>
+        <file>ICON/multiply2.png</file>
+        <file>ICON/music.png</file>
+        <file>ICON/network.png</file>
+        <file>ICON/notification_add.png</file>
+        <file>ICON/notification_done.png</file>
+        <file>ICON/notification_remove.png</file>
+        <file>ICON/notification_warning.png</file>
+        <file>ICON/object_flip_horizontal.png</file>
+        <file>ICON/object_rotate_left.png</file>
+        <file>ICON/object_rotate_right.png</file>
+        <file>ICON/ok (2).png</file>
+        <file>ICON/ok.png</file>
+        <file>ICON/parallel_tasks_512.png</file>
+        <file>ICON/pause (1).png</file>
+        <file>ICON/pause (2).png</file>
+        <file>ICON/pause.png</file>
+        <file>ICON/pencil.png</file>
+        <file>ICON/phone3.png</file>
+        <file>ICON/play (1).png</file>
+        <file>ICON/play (2).png</file>
+        <file>ICON/play (3).png</file>
+        <file>ICON/play.png</file>
+        <file>ICON/player_fastforward.png</file>
+        <file>ICON/player_pause (1).png</file>
+        <file>ICON/player_pause.png</file>
+        <file>ICON/player_play.png</file>
+        <file>ICON/player_rewind.png</file>
+        <file>ICON/player_stop.png</file>
+        <file>ICON/plugin.png</file>
+        <file>ICON/plus.png</file>
+        <file>ICON/plus_minus.png</file>
+        <file>ICON/plus_minus2.png</file>
+        <file>ICON/power.png</file>
+        <file>ICON/processor.png</file>
+        <file>ICON/protection.png</file>
+        <file>ICON/put_in_motion.png</file>
+        <file>ICON/recycle.png</file>
+        <file>ICON/refresh.png</file>
+        <file>ICON/refresh_512.png</file>
+        <file>ICON/reload.png</file>
+        <file>ICON/remove.png</file>
+        <file>ICON/repeat.png</file>
+        <file>ICON/ribbon.png</file>
+        <file>ICON/right (2).png</file>
+        <file>ICON/right.png</file>
+        <file>ICON/right2.png</file>
+        <file>ICON/right3.png</file>
+        <file>ICON/right_circular.png</file>
+        <file>ICON/router.png</file>
+        <file>ICON/router_512.png</file>
+        <file>ICON/ruler.png</file>
+        <file>ICON/save (1).png</file>
+        <file>ICON/save (2).png</file>
+        <file>ICON/save.png</file>
+        <file>ICON/save_as.png</file>
+        <file>ICON/seal.png</file>
+        <file>ICON/search (2).png</file>
+        <file>ICON/search.png</file>
+        <file>ICON/security.png</file>
+        <file>ICON/selftimer.png</file>
+        <file>ICON/services.png</file>
+        <file>ICON/settings (2).png</file>
+        <file>ICON/settings.png</file>
+        <file>ICON/settings2.png</file>
+        <file>ICON/settings3.png</file>
+        <file>ICON/shipwheel.png</file>
+        <file>ICON/shop.png</file>
+        <file>ICON/sinchronize.png</file>
+        <file>ICON/skip_to_start.png</file>
+        <file>ICON/sleep.png</file>
+        <file>ICON/smiley.png</file>
+        <file>ICON/star (1).png</file>
+        <file>ICON/star.png</file>
+        <file>ICON/star_empty.png</file>
+        <file>ICON/star_full.png</file>
+        <file>ICON/star_half.png</file>
+        <file>ICON/stock_export.png</file>
+        <file>ICON/stock_mail_copy.png</file>
+        <file>ICON/stock_weather_night_clear.png</file>
+        <file>ICON/stop (1).png</file>
+        <file>ICON/stop.png</file>
+        <file>ICON/stop_alt.png</file>
+        <file>ICON/synaptic.png</file>
+        <file>ICON/text_x_makefile.png</file>
+        <file>ICON/toolbox_filled.png</file>
+        <file>ICON/tools.png</file>
+        <file>ICON/torrent.png</file>
+        <file>ICON/trash_full.png</file>
+        <file>ICON/up (2).png</file>
+        <file>ICON/up.png</file>
+        <file>ICON/up2.png</file>
+        <file>ICON/up3.png</file>
+        <file>ICON/up4.png</file>
+        <file>ICON/up_left.png</file>
+        <file>ICON/up_right.png</file>
+        <file>ICON/upload (2).png</file>
+        <file>ICON/upload.png</file>
+        <file>ICON/upload2.png</file>
+        <file>ICON/upload2_filled.png</file>
+        <file>ICON/usb_on.png</file>
+        <file>ICON/view.png</file>
+        <file>ICON/volume_up.png</file>
+        <file>ICON/warning.png</file>
+        <file>ICON/weather.png</file>
+        <file>ICON/wheel.png</file>
+        <file>ICON/windsock.png</file>
+        <file>ICON/zoom_in.png</file>
+        <file>ICON/zoomout.png</file>
+        <file>DemoDesigner.pro</file>
+        <file>main.cpp</file>
+        <file>resource.qrc</file>
+        <file>Widget.cpp</file>
+        <file>Widget.h</file>
+        <file>Widget.ui</file>
+        <file>DarkStyle.qss</file>
+    </qresource>
+</RCC>
